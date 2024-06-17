@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ajay+Kumar+Nayak!;" />
 </h1>
 
-<h3 align="center">A passionate full stack developer from Jharkhand India 🇨🇦</h3>
+<h3 align="center">A passionate full stack developer from Jharkhand India </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -14,7 +14,20 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **zidio Development**
+ 
+  🔭Experiance **Full Stack Developer **
+               **prodigy InfoTech . Intership**
+               **Jun 2024 - Present**
+               **Remote**
+
+               **Cyber Security**
+               **CodeAlpha . Intership**
+               **Jun 2024 - Present**
+               **Remote**
+
+               **Web Developer**
+               **Technohacks EduTech Offical . Intership
+               **May 2024 - Jun 2024
  
  🌱 I’m currently learning **Machine learning, Generative AI, AWS**
 
@@ -71,9 +84,5 @@
 
 <hr/>
 
-<br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='thanks for visit at ko-fi.com' /></a>
-</div>
 
