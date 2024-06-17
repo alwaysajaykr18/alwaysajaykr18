@@ -15,21 +15,18 @@
 <div align="center">
  
  
-  🔭 █▓▒▒░░░Experience░░░▒▒▓█
-  
-               **Full Stack Developer **
-               **prodigy InfoTech . Intership**
-               **Jun 2024 - Present**
-               **Remote**
-
-               **Cyber Security**
-               **CodeAlpha . Intership**
-               **Jun 2024 - Present**
-               **Remote**
-
-               **Web Developer**
-               **Technohacks EduTech Offical . Intership
-               **May 2024 - Jun 2024
+  🔭 𝓔❎🅿𝓔🌱🕴𝓔🥄🌜𝓔
+ [**Full Stack Developer **
+ **prodigy InfoTech . Intership**
+ **Jun 2024 - Present**
+ **Remote**]
+...[**Cyber Security**
+**CodeAlpha . Intership**
+**Jun 2024 - Present**
+**Remote**]
+...[**Web Developer**
+**Technohacks EduTech Offical . Intership
+**May 2024 - Jun 2024]
  
   
 🌱 I’m currently learning **Machine learning, Generative AI, AWS**
@@ -67,7 +64,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/alwaysajaykr18/alwaysajaykr18/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/alwaysajaykr18/alwaysajay18/output/github-contribution-grid-snake.svg" />
+  
   
   <br/><br/><br/>
 </div>
@@ -80,12 +78,19 @@
   <img width=390 src="https://github-readme-streak-stats-alwaysajaykr18.vercel.app/?user=alwaysajaykr18&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-alwaysajaykr18.vercel.app/api?username=alwaysajaykr18&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-alwayajaykr18.vercel.app/api/top-langs/?username=alwaysajaykr18&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-alwaysajaykr18.vercel.app/api/top-langs/?username=alwaysajaykr18&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
 
 <hr/>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=400&height=70&duration=5000&lines=Thanks+for+visiting!+🙏;+Shoot+me+a+message+on+Linkedin!+;+I+am+always+down+to+collab+🙂+;"/>
+</h3>
+
+<br/>
+     
 
 
 
