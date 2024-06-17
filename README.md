@@ -1,5 +1,5 @@
-[![MasterHead](https://drive.google.com/file/d/1DgJbEoOXvEK0ZA9-L5u5PNPJhA-ECvLQ/view?usp=drivesdk)
- 
+[![MasterHead] ![3f19ac42-c12b-408d-b4c5-a311e30a1535](https://github.com/alwaysajaykr18/alwaysajaykr18/assets/172900370/dfee361b-8e08-4d75-8064-3c41a1c68522)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alwaysajaykr18.alwaysajaykr18" />
 
 <h1 align="center">
