@@ -3,11 +3,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alwaysajaykr18.alwaysajaykr18" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ajay+Kumar+Nayak!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=नमस्ते+(Namaste)!+🙏;+I'm+Ajay+Kumar+Nayak!;" />
 </h1>
 
 <h3 align="center">A passionate full stack developer from Jharkhand India </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
 
 
 <br/>
@@ -15,23 +15,14 @@
 <div align="center">
  
  
-  🔭 Experience
-                                                                                                                                    ..............................................................................................................................................**Full Stack Developer **
-                                                                                                                                                                                                                                                                       
- **prodigy InfoTech . Intership**
- **Jun 2024 - Present**
- **Remote**]
-..............................................................................................................................................**Cyber Security**
-                                                                                                                                                                                                                                                                     
-**CodeAlpha . Intership**
-**Jun 2024 - Present**
-**Remote**]
-...............................................................................................................................................**Web Developer**
-                                                                                                                           
- **Technohacks EduTech Offical . Intership
-**May 2024 - Jun 2024
+👨‍💻 Computer science Engineer.
+
+🚀 Passionate about exploring and applying new technologies.
+
+ 📖 Believer in continuous learning.
+
+🛠️ Enthusiast for a variety of projects.
  
-  
 🌱 I’m currently learning **Machine learning, Generative AI, AWS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/alwaysajaykr18/alwaysajaykr18/issues)**
