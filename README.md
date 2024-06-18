@@ -1,4 +1,6 @@
-[![MasterHead]![Neon Green Gaming Channel YouTube Banner_20240618_182306_0001](https://github.com/alwaysajaykr18/alwaysajaykr18/assets/172900370/f60bebd3-77a8-4435-aee0-b39aa8bf46c6)
+[![MasterHead]!
+![0619 (1) (1)](https://github.com/alwaysajaykr18/alwaysajaykr18/assets/172900370/fc460be5-0b04-4657-b1b0-1d6fdea4634c)
+
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alwaysajaykr18.alwaysajaykr18" />
 
@@ -16,17 +18,11 @@
  
  
 👨‍💻 Computer science Engineer.
-
 🚀 Passionate about exploring and applying new technologies.
-
  📖 Believer in continuous learning.
-
 🛠️ Enthusiast for a variety of projects.
- 
-🌱 I’m currently learning **Machine learning, Generative AI, AWS**
-
+ 🌱 I’m currently learning **Machine learning, Generative AI, AWS**
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/alwaysajaykr18/alwaysajaykr18/issues)**
-
 ⚡ Fun fact  **I Love To Play Battleground Mobile India**
 
  </div>
